@@ -19,3 +19,4 @@ header_pages:
 
 exclude:
   - README.md
+  - SECURITY.md
