@@ -1,0 +1,21 @@
+title: poola-vii
+description: Windows 向けの小さな常駐ユーティリティを、個人で作って無償で配っています。
+url: https://poola-vii.github.io
+lang: ja
+theme: minima
+
+# 草案（TwoTile リポジトリの docs/public/）を写したとき、文書どうしの相対リンク
+# （例: known_issues.md）をそのまま使えるようにする。
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+header_pages:
+  - twotile/index.md
+  - privacy.md
+
+exclude:
+  - README.md
