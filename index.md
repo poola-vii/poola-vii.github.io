@@ -38,7 +38,7 @@ Microsoft Store の掲載ページには、Microsoft の定めにより本人の
 
 ## サポート
 
-窓口は **<https://github.com/poola-vii/support>** の1つだけです。メールでは受け付けていません。投稿には GitHub のアカウントが要ります（無料で作れます）。
+窓口は、ここで配るソフト全体で共通の2つです。**おすすめは <https://github.com/poola-vii/support> です。** 投稿には GitHub のアカウントが要ります（無料で作れます）。GitHub のアカウントがない方は、メール（`poola.vii.support@gmail.com`）でも受け付けます。どちらの窓口でも、どのソフトのことか分かるように書いてください。
 
 - 不具合の報告・使い方の質問・要望 — 上のリポジトリの Issues から、用意したフォームを選んでください
 - 脆弱性の報告 — 同じリポジトリの Security タブから Private Vulnerability Reporting で送ってください。**公開の Issue には書かないでください**
