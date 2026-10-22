@@ -3,7 +3,7 @@ layout: page
 title: 利用条件
 ---
 
-**制定: 2026-09-18 / 改定: 2026-09-20（製品名を TwoTile に変更）、2026-10-12（公式な入手先に Vector を加えた） / 対象: TwoTile 1.0.3（Microsoft Store 版・ポータブル版）**
+**制定: 2026-09-18 / 改定: 2026-09-20（製品名を TwoTile に変更）、2026-10-12（公式な入手先に Vector を加えた）、2026-10-21（Vector へのリンクを作品の説明ページにした） / 対象: TwoTile 1.0.4（Microsoft Store 版・ポータブル版）**
 
 > **この文書は、弁護士などの専門家の確認を受けていません。** 個人が無償で配るソフトウェアの条件として、自分で用意したものです。
 
@@ -32,7 +32,7 @@ TwoTile（以下「本ソフトウェア」）は、`poola-vii`（日本在住�
 
 ## 4. 再配布
 
-本ソフトウェアの公式な入手先は、Microsoft Store、<https://github.com/poola-vii/TwoTile-releases>、Vector（<https://www.vector.co.jp/>）です。Vector には一部の版だけを置くため、Vector の版が最新とは限りません。**最新の版がどれかは、公式サイト（<https://poola-vii.github.io/twotile/>）で確かめてください。**
+本ソフトウェアの公式な入手先は、Microsoft Store、<https://github.com/poola-vii/TwoTile-releases>、Vector（<https://www.vector.co.jp/soft/winnt/util/se529849.html>）です。Vector には一部の版だけを置くため、Vector の版が最新とは限りません。**最新の版がどれかは、公式サイト（<https://poola-vii.github.io/twotile/>）で確かめてください。**
 
 **ほかの人に紹介するときは、ファイルを渡すのではなく、公式な入手先を教えてください。** 公式な入手先から入れれば、受け取る人は本物かどうかを確かめられ、新しい版も手に入れられます。ファイルを渡すのは、公式な入手先を使えない場合の手段としてください。
 
