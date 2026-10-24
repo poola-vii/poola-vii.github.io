@@ -76,6 +76,7 @@ Get-FileHash .\TwoTile.exe -Algorithm SHA256
 
 | 版 | ファイル | SHA-256 |
 |:---|:---|:---|
+| 1.0.6 | `TwoTile.exe` | `E7C1C65086C6B2AE1A3F1197C35ED00535A2614AE64AF0EF628A9AE8E83B63B9` |
 | 1.0.4 | `TwoTile.exe` | `1B061625589ED62FCBF638554DD6FAF7B2C8EC95C4281E9DC638F576A42EDEE1` |
 | 1.0.3 | `TwoTile.exe` | `247A165D48689C2EF3E07046E7CDA4233CACCB10DEAE841A34200A4BA7B227CF` |
 | 1.0.2 | `TwoTile.exe` | `53CA0DF4CDF9EDCAE19F4E5CE5098CA2677FE7E80749F5873B881E9D9347ED8F` |
@@ -90,7 +91,7 @@ Get-FileHash .\TwoTile.exe -Algorithm SHA256
 3. アイコンを右クリックするとメニューが開きます。
 4. 止めたいときは「自動整列 有効」のチェックを外します。終わるときは「終了」を選びます。
 
-**最初は自動で起動しません。** Windows のサインイン時に起動させたいときは、メニューの「OS起動時に自動実行」を使います（Store 版は Windows の設定のスタートアップで切り替えます）。
+**最初は自動で起動しません。** Windows のサインイン時に起動させたいときは、メニューの「設定...」の「全般」タブにある「OS起動時に自動実行」を使います（Store 版は、同じ場所の「Windows の設定を開く...」から、Windows の設定のスタートアップで切り替えます）。1.0.5 までは、メニューの「OS起動時に自動実行」です。
 
 設定は `%APPDATA%\TwoTile\config.json` に保存されます。アプリを消しても残るので、要らなければ手で削除してください。
 
