@@ -71,6 +71,12 @@ That's because it isn't signed. Select **More info**, and then **Run anyway**. I
 
 When the Microsoft Store updates TwoTile, the running TwoTile exits and doesn't start again on its own. Windows aren't arranged until it starts again. Start it from the Start menu, or it starts the next time you sign in (if you've set it to start with Windows). Your settings, and whether it starts with Windows, are kept after the update.
 
+### The Store version's tray icon is hidden after an update
+
+If you kept the TwoTile icon on the taskbar, it goes back into the list that opens from the ^ button on the taskbar after the Microsoft Store updates TwoTile. Windows remembers whether to show an icon for each app location, and the Store version's location changes with every update.
+
+To show it again, turn on TwoTile in Windows Settings > Personalization > Taskbar > Other system tray icons. You can also drag the icon from the list to the taskbar. The portable version stays visible if you replace `TwoTile.exe` with the new version in the same place.
+
 ### If you install both versions, only one runs
 
 If you install both the Store version and the portable version on the same PC, only the one you start first runs. The one you start later exits without showing a message.
