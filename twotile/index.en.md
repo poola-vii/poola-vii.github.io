@@ -64,6 +64,7 @@ Install it from the Microsoft Store. The Store lets you know about updates. **On
 **For PCs that can't use the Microsoft Store.** No installation is needed. Put `TwoTile.exe` anywhere you like and run it.
 
 - Download: <https://github.com/poola-vii/TwoTile-releases/releases>
+- **It's also on Vector** (<https://www.vector.co.jp/soft/winnt/util/se529849.html>, a Japanese site; the ZIP includes a description, the Terms of Use, the Privacy Policy, and the Third-Party Notices, all in Japanese). Vector has only some versions, so **check this page to see which version is the latest.**
 - When you tell others about TwoTile, give them this page instead of the file. If you get the file from someone else, check that it's genuine with "Check the file you downloaded" below before you use it (the rules for passing it on are in §4 of the [Terms of Use](terms.en.md)).
 
 **The portable version isn't signed.** Because of that:
@@ -89,6 +90,14 @@ Get-FileHash .\TwoTile.exe -Algorithm SHA256
 | 1.0.1 | `TwoTile.exe` | `44C461CD82A0A6989F2702DD915119C3A23EF5EBC775EBC3AF13838228CD4F1D` |
 
 If the value is different, don't use the file.
+
+For a ZIP from Vector, **compare the extracted `TwoTile.exe` with the table above.** The value of `TwoTile.exe` is the one to trust. The value of the ZIP itself only helps confirm that the package is the same as the original (Vector may change file names to lowercase, so look it up by version).
+
+| Version | File | SHA-256 |
+|:---|:---|:---|
+| 1.0.9 | `TwoTile_1.0.9.zip` (Vector) | `D3A2580132F7B015A47760873B7A06CBE22871963B54B7D9937AC4F38D9C9AF6` |
+| 1.0.3 | `TwoTile_1.0.3.zip` (Vector) | `718027695333FB96E9A7FB3F00D0F255E58736899C336C65DE4D587A0B462E5A` |
+| 1.0.2 | `TwoTile_1.0.2.zip` (Vector) | `0DE8B8B95483395D77851C97A4E5ED92DE71193427FE7FE5E5E3C07228BD3D8F` |
 
 ## Getting started
 

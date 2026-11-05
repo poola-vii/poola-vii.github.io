@@ -61,6 +61,7 @@ Store から入れてください。更新は Store が知らせます。**Smart
 **Store が使えない PC 向けです。** インストールは要りません。`TwoTile.exe` を好きな場所に置いて実行してください。
 
 - 入手先: <https://github.com/poola-vii/TwoTile-releases/releases>
+- **Vector にも置いています**（<https://www.vector.co.jp/soft/winnt/util/se529849.html>。ZIP に説明・利用条件・プライバシーポリシー・第三者ライセンスを同梱）。Vector に置くのは一部の版だけなので、**最新の版がどれかは、このページで確かめてください。**
 - ほかの人に紹介するときは、ファイルを渡すのではなく、このページを教えてください。ほかの人から受け取ったファイルは、下の「入手したファイルを確かめる」で本物かどうかを確かめてから使ってください（配り方の決まりは[利用条件](terms.md) §4）。
 
 **ポータブル版には署名を付けていません。** そのため次のことが起きます。
@@ -86,6 +87,14 @@ Get-FileHash .\TwoTile.exe -Algorithm SHA256
 | 1.0.1 | `TwoTile.exe` | `44C461CD82A0A6989F2702DD915119C3A23EF5EBC775EBC3AF13838228CD4F1D` |
 
 値が違うときは使わないでください。
+
+Vector から入手した ZIP も、**展開した `TwoTile.exe` を上の表と比べてください。** 照合の正は `TwoTile.exe` の値です。ZIP そのものの値は、包みが配布元のものと同じかを確かめる補助です（Vector がファイル名を小文字にすることがあるため、版で引いてください）。
+
+| 版 | ファイル | SHA-256 |
+|:---|:---|:---|
+| 1.0.9 | `TwoTile_1.0.9.zip`（Vector） | `D3A2580132F7B015A47760873B7A06CBE22871963B54B7D9937AC4F38D9C9AF6` |
+| 1.0.3 | `TwoTile_1.0.3.zip`（Vector） | `718027695333FB96E9A7FB3F00D0F255E58736899C336C65DE4D587A0B462E5A` |
+| 1.0.2 | `TwoTile_1.0.2.zip`（Vector） | `0DE8B8B95483395D77851C97A4E5ED92DE71193427FE7FE5E5E3C07228BD3D8F` |
 
 ## 最初に使うとき
 
