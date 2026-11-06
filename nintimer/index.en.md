@@ -10,7 +10,7 @@ lang: en
 
 Even where you can't use a presenter view (such as PowerPoint's Presenter View), Nintimer puts a small, semi-transparent timer on top of your slides, on the same screen. You can see how much time is left without looking back and forth between your laptop and the screen.
 
-> **Nintimer is currently a free public beta.** If you notice anything, let us know through the [support contact](support.en.md). Known problems are listed in [Known issues](known_issues.en.md).
+> **Coming soon. Nintimer isn't available yet.** We're waiting for the Microsoft Store review. We'll remove this notice when the public beta starts. Until then, the Microsoft Store link and the download page for the portable version below won't open.
 
 ## What it does
 
