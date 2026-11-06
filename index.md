@@ -5,9 +5,9 @@ title: poola-vii
 
 Windows 向けの小さな常駐ユーティリティを、個人で作って無償で配っています。このサイトは、正規の入手先・サポート窓口・利用条件・プライバシーの入口です。
 
-English: [TwoTile](twotile/index.en.md)
+English: [TwoTile](twotile/index.en.md) · [Nintimer](nintimer/index.en.md)
 
-> **TwoTile を無料の公開βとして公開しました。** 気づいたことがあれば、問い合わせ窓口からお知らせください。Nintimer は準備中です。
+> **TwoTile と Nintimer を、無料の公開βとして公開しています。** 気づいたことがあれば、問い合わせ窓口からお知らせください。
 
 ## 公開者
 
@@ -27,9 +27,11 @@ Microsoft Store の掲載ページには、Microsoft の定めにより本人の
 
 [TwoTile について](twotile/)
 
-### Nintimer — 準備中
+### [Nintimer](nintimer/) — 公開β（無料）
 
-発表や勉強会の持ち時間を、全画面で大きく表示するタイマーです。公開βの準備は TwoTile の後になります。ページはまだありません。
+発表中に、投影する画面の隅で残り時間を教えてくれるタイマーです。発表者向けの画面が使えない会場でも、スライドと同じ画面の隅に小さなタイマーを重ねます。
+
+[Nintimer について](nintimer/)
 
 ## 入手先
 
@@ -40,7 +42,7 @@ Microsoft Store の掲載ページには、Microsoft の定めにより本人の
 
 ## サポート
 
-窓口は、ここで配るソフト全体で共通の2つです。**おすすめは <https://github.com/poola-vii/support> です。** 投稿には GitHub のアカウントが要ります（無料で作れます）。GitHub のアカウントがない方は、メール（`poola.vii.support@gmail.com`）でも受け付けます。どちらの窓口でも、どのソフトのことか分かるように書いてください。
+窓口は <https://github.com/poola-vii/support> で、ここで配るソフト全体で共通です。投稿には GitHub のアカウントが要ります（無料で作れます）。どのソフトのことか分かるように書いてください。**TwoTile** については、GitHub のアカウントがない方向けに、メール（`poola.vii.support@gmail.com`）でも受け付けます。
 
 - 不具合の報告・使い方の質問・要望 — 上のリポジトリの Issues から、用意したフォームを選んでください
 - 脆弱性の報告 — 同じリポジトリの Security タブから Private Vulnerability Reporting で送ってください。**公開の Issue には書かないでください**
@@ -51,4 +53,8 @@ Microsoft Store の掲載ページには、Microsoft の定めにより本人の
 - [TwoTile のプライバシーポリシー](twotile/privacy_policy.md)
 - [TwoTile の第三者ライセンス](twotile/third_party_notices.md)
 - [TwoTile の既知の制限](twotile/known_issues.md)
+- [Nintimer の利用条件](nintimer/terms.md)
+- [Nintimer のプライバシーポリシー](nintimer/privacy_policy.md)
+- [Nintimer の第三者ライセンス](nintimer/third_party_notices.md)
+- [Nintimer の既知の問題](nintimer/known_issues.md)
 - [このサイトのプライバシーについて](privacy.md)

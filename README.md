@@ -12,10 +12,12 @@
 | `privacy.md` | **このサイト**のプライバシー（GitHub Pages が訪問者の IP を記録すること）。当方が持つ文書 |
 | `twotile/index.md` | TwoTile の紹介・動作条件・入手方法 |
 | `twotile/` のその他 | TwoTile の利用条件、プライバシーポリシー、第三者ライセンス、既知の制限、変更履歴、ログ採取方法、サポート範囲 |
+| `nintimer/index.md` | Nintimer の紹介・動作条件・入手方法 |
+| `nintimer/` のその他 | Nintimer の利用条件、プライバシーポリシー、第三者ライセンス、既知の問題、変更履歴、サポート範囲 |
 
 ## 文面の正
 
-`twotile/` に置いた文書は、**`poola-vii/TwoTile` リポジトリの `docs/public/` が文面の正**です。ここにあるのは写しです。直すときは正の側を直してから写し直します。ここで直して済ませると、2か所が食い違います。
+`twotile/` に置いた文書は、**`poola-vii/TwoTile` リポジトリの `docs/public/` が文面の正**です。`nintimer/` に置いた文書は、**`poola-vii/Nintimer` リポジトリの `docs/public/` が文面の正**です（`index.md` は `release_readme.md` の写し）。ここにあるのは写しです。直すときは正の側を直してから写し直します。ここで直して済ませると、2か所が食い違います。
 
 写すときの決まり:
 

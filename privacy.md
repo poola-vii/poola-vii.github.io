@@ -5,7 +5,7 @@ title: このサイトのプライバシーについて
 
 **掲示: 2026-09-25 / 対象: <https://poola-vii.github.io/>（このサイト）**
 
-このページは、**このサイトを見たときに何が記録されるか**についての説明です。アプリが何を扱うかは製品ごとの文書にあります（[TwoTile のプライバシーポリシー](twotile/privacy_policy.md)）。
+このページは、**このサイトを見たときに何が記録されるか**についての説明です。アプリが何を扱うかは製品ごとの文書にあります（[TwoTile のプライバシーポリシー](twotile/privacy_policy.md)、[Nintimer のプライバシーポリシー](nintimer/privacy_policy.md)）。
 
 ## このサイトは GitHub Pages で公開しています
 
