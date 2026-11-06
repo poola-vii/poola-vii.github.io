@@ -35,7 +35,7 @@ title: Nintimer
 
 ### Microsoft Store 版（おすすめ）
 
-<!-- TODO: Store に出したあとリンクを入れる -->
+<https://apps.microsoft.com/detail/9N7LCWZ81GSC>
 
 Microsoft Store で「Nintimer」を探して入れてください。更新は Store が行います。**Smart App Control がオンの PC では、Store 版をお使いください。**
 

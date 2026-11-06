@@ -36,7 +36,7 @@ For other environments, see the table in [Known issues](known_issues.en.md).
 
 ### Microsoft Store version (recommended)
 
-<!-- TODO: Add the link after Nintimer is submitted to the Store -->
+<https://apps.microsoft.com/detail/9N7LCWZ81GSC>
 
 Search for "Nintimer" in the Microsoft Store and install it. The Store keeps it up to date. **On PCs with Smart App Control turned on, use the Microsoft Store version.**
 
