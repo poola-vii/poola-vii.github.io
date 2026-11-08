@@ -52,7 +52,7 @@ See §3 of [How to Collect Logs](log_collection.en.md). With these three things,
 These are things **we can't do**. It doesn't mean we take your report lightly.
 
 - **Support for old versions.** Please check whether the problem also happens in the latest version before you tell us.
-- **Environments we've decided not to support.** ARM PCs, 32-bit Windows, and operating systems other than Windows.
+- **Operating systems other than Windows.**
 - **Anything listed under "By design" in [Known Issues](known_issues.en.md).** We chose that behavior for a reason. We're still happy to hear your opinion.
 - **Custom work for a particular environment.** We don't add features just for one specific app.
 - **Sorting out problems caused by combining TwoTile with other software.** If you run TwoTile with another window manager, they fight over the windows.

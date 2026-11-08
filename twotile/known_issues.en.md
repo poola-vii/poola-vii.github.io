@@ -83,21 +83,6 @@ If you install both the Store version and the portable version on the same PC, o
 
 ## Tested environments
 
-We've tested the Microsoft Store version and the portable version on the author's PC (Windows 11 Home 25H2, 64-bit, x64), with one and two displays, main display resolutions of 2560x1440 and 1920x1080, and display scales of 100%, 150%, and 200%.
+We've tested the Microsoft Store version and the portable version on the author's PC (Windows 11 Home 25H2 and 26H2, 64-bit, x64), with one and two displays, main display resolutions of 2560x1440 and 1920x1080, and display scales of 100%, 150%, and 200%.
 
-The table below shows the status of other environments. "Not tested" means we haven't tested it yet.
-
-| Environment | Status |
-|:---|:---|
-| Windows 10 | Not tested |
-| Versions of Windows 11 other than 25H2 | Not tested |
-| ARM PCs | Not supported |
-| 32-bit Windows | Not supported |
-| Three or more displays | Not tested. Windows on displays other than the main display should be left out in the same way |
-| Different display scales on each display | Not tested |
-| Display scales such as 125% and 175% | Not tested (100%, 150%, and 200% are tested) |
-| Ultrawide and 4K displays | Not tested (the grid calculation is tested) |
-| Rotated (portrait) displays | Not tested |
-| Remote Desktop and virtual machines | Not tested |
-| PCs where several users are signed in at the same time | Not tested |
-| Installed from the Microsoft Store | Tested: starting and running in the system tray, where settings are stored, starting at sign-in, and keeping your settings and whether it starts with Windows when you update manually in the Microsoft Store app (from 1.0.1 to 1.0.2). **Automatic updates by the Store aren't tested** |
+For the version installed from the Microsoft Store, we've tested starting and running in the system tray, where settings are stored, and starting at sign-in. We've also tested that your settings, and whether it starts with Windows, are kept when you update manually in the Microsoft Store app (from 1.0.1 to 1.0.2).

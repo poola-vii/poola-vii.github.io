@@ -46,7 +46,7 @@ For your windows to just stay arranged, TwoTile has to stay out of your way.
 | | |
 |---|---|
 | OS | Windows 11 (64-bit) |
-| CPU | x64. ARM and 32-bit aren't supported |
+| CPU | x64 |
 | .NET | **Not needed.** Everything required is included |
 | Help | WebView2 Runtime, which comes with Windows 11 |
 | Display | Designed for 1920x1080 or larger. Only windows on the main display are arranged |
