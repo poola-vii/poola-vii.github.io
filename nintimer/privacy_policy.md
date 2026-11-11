@@ -3,7 +3,7 @@ layout: page
 title: プライバシーポリシー
 ---
 
-**制定: 2026-10-29 / 対象: Nintimer 1.0.1（Microsoft Store 版・ポータブル版）**
+**制定: 2026-10-29 / 対象: Nintimer 1.0.2（Microsoft Store 版・ポータブル版）**
 
 > **専門家の確認は受けていません。**
 >

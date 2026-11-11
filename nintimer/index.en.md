@@ -6,31 +6,34 @@ lang: en
 
 [日本語](index.md)
 
-**A presentation timer that shows the time left in a corner of the screen you're projecting.**
+**A presentation timer that lets you keep track of time without getting distracted by it.**
 
-Even where you can't use a presenter view (such as PowerPoint's Presenter View), Nintimer puts a small, semi-transparent timer on top of your slides, on the same screen. You can see how much time is left without looking back and forth between your laptop and the screen.
+It sits small in a corner of the screen you're projecting, so you can check the time without looking away from the screen. It doesn't beep or flash when time is up, and it doesn't interfere with the keys you use to move between slides. If you enter start and end times, you don't even need to start it.
+
+You can use it even where you can't use a presenter view (such as PowerPoint's Presenter View).
 
 > **Coming soon. Nintimer isn't available yet.** We're waiting for the Microsoft Store review. We'll remove this notice when the public beta starts. Until then, the Microsoft Store link and the download page for the portable version below won't open.
 
 ## What it does
 
-- **Three timing modes** — A time limit (for example, 20 minutes), start and end times (for example, 13:00 to 13:30), or counting up.
-- **Colors and a progress bar** — Gray while waiting or stopped, white while timing, and red when time is up, with the overtime shown as `+03:05`. A bar shows how much time is left.
-- **Stays out of your way** — It doesn't take the keyboard focus, so your keys for moving between slides still go to your presentation app. It doesn't make sounds.
-- **Works during a full-screen slide show** — Right-click the timer to start, stop, or open Settings. Drag it to move it.
-- **Start over anytime** — If your presentation didn't actually start, right-click, select **Stop**, and then **Start over** to time again from zero.
+- **Stays out of your way** — It's small and semi-transparent, and it doesn't beep or flash when time is up. It shows only the time, colors, and a thin bar, with no words like "Waiting."
+- **No need to start it for a fixed time slot** — In Settings, enter start and end times, such as 13:00 to 13:30, and select **OK**. At 13:00, it starts timing on its own, even if you restart Nintimer or the date changes. The number shows the current time, and the thin bar shows how much time is left. Set it up the day before or during the break, and you won't forget to start it when your talk begins.
+- **Leaves your slide keys alone** — It doesn't take the keyboard focus, so your keys for moving between slides still go to your presentation app. You can control the timer with just your mouse.
+- **Works during a full-screen slide show** — Right-click the timer to start, pause, or open Settings. If it gets in the way, drag it somewhere else.
+- **For talks that don't go as planned** — With a time limit or counting up, if something goes wrong, right-click and select **Pause**, and then **Resume** to continue from where you paused (the paused time isn't counted). If your presentation didn't actually start, select **Pause**, and then **Start over** to time again from zero. When you finish, select **Pause**, and the value at that moment stays on screen.
+- **Three timing modes** — A time limit (for example, 20 minutes), start and end times (for example, 13:00 to 13:30), or counting up. When time is up, the timer turns red, and with a time limit it counts the overtime, like `+03:05`.
 - **English and Japanese** — It follows the Windows display language, and you can also choose the language in Settings.
 
 ## Requirements
 
 | | |
 |---|---|
-| OS | Tested on Windows 11 (64-bit, x64). ARM and 32-bit Windows aren't supported |
+| OS | Tested on Windows 11 (64-bit, x64) |
 | .NET | **Not required.** Everything it needs to run is included |
-| Presentation app | Tested with full-screen slide shows in LibreOffice Impress |
+| Presentation app | Tested with full-screen slide shows in LibreOffice Impress, and in PowerPoint at 100% scale |
 | Display scale | Tested at 100%, 150%, and 200% |
 
-For other environments, see the table in [Known issues](known_issues.en.md).
+For details on the environments we've tested, see [Known issues](known_issues.en.md).
 
 ## Get Nintimer
 
@@ -62,7 +65,7 @@ Get-FileHash .\nintimer.exe -Algorithm SHA256
 
 | Version | File | SHA-256 |
 |:---|:---|:---|
-| 1.0.1 | `nintimer.exe` | `4398E5AFA19ACA2D06961CF7A78F9833EC9699482F5E04D377375D8B3A1712F3` |
+| 1.0.2 | `nintimer.exe` | `3F7E2B989F3152F4D3A04B69D8A599276F0DD6D770E19767D4CD9E17AC297C1B` |
 
 If the value doesn't match, don't use the file.
 
@@ -71,8 +74,8 @@ If the value doesn't match, don't use the file.
 1. Run `nintimer.exe` (start the Microsoft Store version from the Start menu).
 2. A small timer appears in the upper-right corner of the screen, and an icon appears in the system tray.
 3. Right-click the timer or the tray icon, select **Settings...**, set your time limit or times, and select **OK**.
-4. When your presentation starts, double-click the timer, or right-click it and select **Start**. (If you set start and end times, the time window starts when you select **OK**, so you don't need to start it.)
-5. When you finish, right-click and select **Stop**. The value at that moment stays on screen.
+4. When your presentation starts, double-click the timer, or right-click it and select **Start**. (If you set start and end times, the time window stays active once you select **OK**, even after you restart Nintimer, so you don't need to start it.)
+5. To stop timing, right-click and select **Pause**. The value at that moment stays on screen. To continue, select **Resume**; to time again from zero, select **Start over** (with a time limit or counting up).
 
 ### Language
 

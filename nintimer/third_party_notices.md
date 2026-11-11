@@ -3,7 +3,7 @@ layout: page
 title: 第三者ライセンス
 ---
 
-**対象: Nintimer 1.0.1（Microsoft Store 版・ポータブル版）**
+**対象: Nintimer 1.0.2（Microsoft Store 版・ポータブル版）**
 
 Nintimer には、次の第三者ソフトウェアが含まれています。提供者が定める条件が適用されます。以下に、ライセンスが求める表示を掲げます。
 

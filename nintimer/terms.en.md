@@ -4,7 +4,7 @@ title: Terms of Use
 lang: en
 ---
 
-**Established: 2026-10-27 / Applies to: Nintimer 1.0.1 (Microsoft Store version and portable version)**
+**Established: 2026-10-27 / Applies to: Nintimer 1.0.2 (Microsoft Store version and portable version)**
 
 > **This is a reference translation.** The Japanese version of these Terms of Use is the official one. If this translation and the Japanese version differ, the Japanese version prevails (§13).
 

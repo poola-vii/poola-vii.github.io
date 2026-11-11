@@ -4,7 +4,7 @@ title: Support
 lang: en
 ---
 
-This applies to Nintimer 1.0.1 (public beta).
+This applies to Nintimer 1.0.2 (public beta).
 
 ## How to contact us
 
@@ -34,7 +34,7 @@ If we find a post that includes any of these, we may edit or delete it.
 With these three things, we can usually look into the problem:
 
 - **What you did and what happened.** Step by step, if you can. Also tell us which presentation app you used, and whether a full-screen slide show was running.
-- **The Nintimer version.** It's at the top of the menu that opens when you right-click the timer or the system tray icon (for example, `Nintimer v1.0.1`). Also tell us whether you use the Microsoft Store version or the portable version.
+- **The Nintimer version.** It's at the top of the menu that opens when you right-click the timer or the system tray icon (for example, `Nintimer v1.0.2`). Also tell us whether you use the Microsoft Store version or the portable version.
 - **The Windows version.** Edition, Version, and OS build, under Settings > System > About.
 
 It also helps to know how many displays you use, and the resolution and scale of each (Settings > System > Display).
@@ -67,7 +67,7 @@ You usually don't need to send the settings file (`config.json`). We'll ask for 
 These are things **we can't do**. They don't mean we take your report lightly.
 
 - **Support older versions.** Check whether the problem also happens in the latest version first.
-- **Support for environments we've decided not to support.** ARM PCs, 32-bit Windows, and operating systems other than Windows.
+- **Support for operating systems other than Windows.**
 - **Change behavior listed under "By design" in the known issues.** We chose it for a reason. We're still happy to hear your feedback.
 - **Integrate with specific presentation apps.** Nintimer only stays on top of the screen. It doesn't connect to presentation apps.
 - **Phone or in-person support.**

@@ -4,7 +4,7 @@ title: Privacy Policy
 lang: en
 ---
 
-**Established: 2026-10-29 / Applies to: Nintimer 1.0.1 (Microsoft Store version and portable version)**
+**Established: 2026-10-29 / Applies to: Nintimer 1.0.2 (Microsoft Store version and portable version)**
 
 > **This is a reference translation.** The [Japanese version](privacy_policy.md) of this Privacy Policy is the official one. If this translation and the Japanese version differ, the Japanese version prevails (§9).
 
