@@ -12,7 +12,7 @@ It sits small in a corner of the screen you're projecting, so you can check the 
 
 You can use it even where you can't use a presenter view (such as PowerPoint's Presenter View).
 
-> **Coming soon. Nintimer isn't available yet.** We're waiting for the Microsoft Store review. We'll remove this notice when the public beta starts. Until then, the Microsoft Store link and the download page for the portable version below won't open.
+> **Nintimer is currently a free public beta.** If you notice anything, let us know through the [support contact](support.en.md). Known problems are listed in [Known issues](known_issues.en.md).
 
 ## What it does
 

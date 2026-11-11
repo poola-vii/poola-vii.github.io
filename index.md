@@ -7,7 +7,7 @@ Windows 向けの小さな常駐ユーティリティを、個人で作って無
 
 English: [TwoTile](twotile/index.en.md) · [Nintimer](nintimer/index.en.md)
 
-> **TwoTile を、無料の公開βとして公開しています。Nintimer は準備中です。** 気づいたことがあれば、問い合わせ窓口からお知らせください。
+> **TwoTile と Nintimer を、無料の公開βとして公開しています。** 気づいたことがあれば、問い合わせ窓口からお知らせください。
 
 ## 公開者
 
@@ -27,7 +27,7 @@ Microsoft Store の掲載ページには、Microsoft の定めにより本人の
 
 [TwoTile について](twotile/)
 
-### [Nintimer](nintimer/) — 準備中（公開β・無料の予定）
+### [Nintimer](nintimer/) — 公開β（無料）
 
 発表中に、時間のことで気を取られないようにするタイマーです。投影する画面の隅に小さく重なり、時間が来ても音も点滅も出しません。開始時刻と終了時刻を入れておけば、開始を押す必要もありません。
 
