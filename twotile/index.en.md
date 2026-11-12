@@ -8,6 +8,8 @@ lang: en
 
 **A Windows system tray utility that arranges your windows for you, so you don't have to decide where each one goes.**
 
+![Before and after. Before, a document window and a browser window overlap. After TwoTile arranges them, the two windows sit side by side and fill the screen.](screenshot.en.png)
+
 Every time a new window opens, you decide where it goes. You nudge it aside, fix the overlap, and lose your train of thought. You do this dozens of times a day. TwoTile was made to take that decision off your hands. It runs in the system tray, and whenever you open or close a window, it moves each window to the cell nearest to where you left it. **There's nothing to set up or learn.**
 
 The author originally wrote it for personal use and **has used it every day, at work and at home, for more than 20 years.** Not having to rearrange windows was such a relief that the author rebuilt it so that others can use it too.

@@ -8,6 +8,8 @@ lang: en
 
 **A presentation timer that lets you keep track of time without getting distracted by it.**
 
+![A full-screen slide with the time left, 03:19, and a thin bar shown small in the top-right corner (with an enlarged view).](screenshot.en.png)
+
 It sits small in a corner of the screen you're projecting, so you can check the time without looking away from the screen. It doesn't beep or flash when time is up, and it doesn't interfere with the keys you use to move between slides. If you enter start and end times, you don't even need to start it.
 
 You can use it even where you can't use a presenter view (such as PowerPoint's Presenter View).
