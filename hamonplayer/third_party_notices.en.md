@@ -4,7 +4,7 @@ title: Third-Party Notices
 lang: en
 ---
 
-**Applies to: HamonPlayer 1.0.1 (Windows version; Microsoft Store version and setup.exe version)**
+**Applies to: HamonPlayer 1.0.2 (Windows version; Microsoft Store version and setup.exe version)**
 
 HamonPlayer includes the following third-party software. Each is subject to the terms set by its provider. The notices each license requires are below.
 

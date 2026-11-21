@@ -4,7 +4,7 @@ title: Support
 lang: en
 ---
 
-This applies to HamonPlayer 1.0.1 (public beta).
+This applies to HamonPlayer 1.0.2 (public beta).
 
 ## How to contact us
 
@@ -42,7 +42,7 @@ If we find a post that includes any of these, we may edit or delete it.
 With these three things, we can usually look into the problem:
 
 - **What you did and what happened.** Step by step, if you can, and when it happened.
-- **The HamonPlayer version.** Right-click the icon and open **Help**. The version is on the last line (for example, `HamonPlayer 1.0.1`). Also tell us whether you use the Microsoft Store version or the setup.exe version.
+- **The HamonPlayer version.** Right-click the icon and open **Help**. The version is on the last line (for example, `HamonPlayer 1.0.2`). Also tell us whether you use the Microsoft Store version or the setup.exe version.
 - **The Windows version.** Edition, Version, and OS build, under Settings > System > About.
 
 If the icon is red, it also helps to know the message you see when you point at the icon. If we need the log to look into the problem, see [How to collect logs](log_collection.en.md).

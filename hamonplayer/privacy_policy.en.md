@@ -4,7 +4,7 @@ title: Privacy Policy
 lang: en
 ---
 
-**Established: 2026-11-22 / Applies to: HamonPlayer 1.0.1 (Windows version; Microsoft Store version and setup.exe version)**
+**Established: 2026-11-22 / Applies to: HamonPlayer 1.0.2 (Windows version; Microsoft Store version and setup.exe version)**
 
 > **This is a reference translation.** The [Japanese version](privacy_policy.md) of this Privacy Policy is the official one. If this translation and the Japanese version differ, the Japanese version prevails (§10).
 

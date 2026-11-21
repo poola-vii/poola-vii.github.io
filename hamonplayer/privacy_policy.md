@@ -3,7 +3,7 @@ layout: page
 title: プライバシーポリシー
 ---
 
-**制定: 2026-11-22 / 対象: HamonPlayer 1.0.1（Windows 版。Microsoft Store 版・setup.exe 版）**
+**制定: 2026-11-22 / 対象: HamonPlayer 1.0.2（Windows 版。Microsoft Store 版・setup.exe 版）**
 
 > **専門家の確認は受けていません。**
 >
