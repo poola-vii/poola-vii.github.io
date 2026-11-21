@@ -12,12 +12,14 @@
 | `twotile/` のその他 | TwoTile の利用条件、プライバシーポリシー、第三者ライセンス、既知の制限、変更履歴、ログ採取方法、サポート範囲 |
 | `nintimer/index.md` | Nintimer の紹介・動作条件・入手方法 |
 | `nintimer/` のその他 | Nintimer の利用条件、プライバシーポリシー、第三者ライセンス、既知の問題、変更履歴、サポート範囲 |
-| `twotile/screenshot.png`・`screenshot.en.png`、`nintimer/` の同名の2つ | 紹介ページ（日英）の冒頭に載せる画像。Store に出しているスクリーンショットの1枚目 |
+| `hamonplayer/index.md` | HamonPlayer の紹介・動作条件・入手方法 |
+| `hamonplayer/` のその他 | HamonPlayer の利用条件、プライバシーポリシー、第三者ライセンス、既知の問題、変更履歴、ログ採取方法、サポート範囲 |
+| `twotile/screenshot.png`・`screenshot.en.png`、`nintimer/` と `hamonplayer/` の同名の2つ | 紹介ページ（日英）の冒頭に載せる画像。Store に出しているスクリーンショットの1枚目 |
 | `assets/main.scss` | minima の見た目に足す設定。幅 800px 未満の画面（スマホ、タブレットの縦置き）で、本文の途中で切れない長い文字列（SHA-256 の値、URL など）を折り返し、ページが横にスクロールしないようにしている。800px 以上では折り返さない |
 
 ## 文面の正
 
-`twotile/` に置いた文書は、**`poola-vii/TwoTile` リポジトリの `docs/public/` が文面の正**です。`nintimer/` に置いた文書は、**`poola-vii/Nintimer` リポジトリの `docs/public/` が文面の正**です（`index.md` は `release_readme.md` の写し）。ここにあるのは写しです。直すときは正の側を直してから写し直します。ここで直して済ませると、2か所が食い違います。
+`twotile/` に置いた文書は、**`poola-vii/TwoTile` リポジトリの `docs/public/` が文面の正**です。`nintimer/` に置いた文書は、**`poola-vii/Nintimer` リポジトリの `docs/public/` が文面の正**です（`index.md` は `release_readme.md` の写し）。`hamonplayer/` に置いた文書は、**`poola-vii/HamonPlayer` リポジトリの `docs/public/` が文面の正**です（同じく `index.md` は `release_readme.md` の写し。`official_sources.md` はアプリのヘルプ用なので写さない）。ここにあるのは写しです。直すときは正の側を直してから写し直します。ここで直して済ませると、2か所が食い違います。
 
 写すときの決まり:
 
