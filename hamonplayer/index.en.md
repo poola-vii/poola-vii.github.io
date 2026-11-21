@@ -12,7 +12,7 @@ lang: en
 
 HamonPlayer is for people who have thousands of their own songs and like to leave music playing while they work on their PC. With shuffle, songs you don't like keep coming back, and to avoid them, you usually have to delete songs, or give songs stars and make playlists. With HamonPlayer, you don't need to do that. It doesn't shuffle, and when you skip a song you don't like, it comes back less often. It has no main window. When another app plays sound, it pauses, and when the other app is quiet again, it plays again.
 
-> **HamonPlayer is currently a free public beta.** If you notice anything, let us know through the [support contact](support.en.md). Known problems are listed in [Known issues](known_issues.en.md).
+> **Coming soon. HamonPlayer isn't available yet.** We'll remove this notice when the public beta starts. Until then, the Microsoft Store link and the download page for the setup.exe version below won't open.
 
 ## What it does
 
