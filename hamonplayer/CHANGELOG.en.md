@@ -17,7 +17,7 @@ Dates are in Japan Standard Time. The Microsoft Store version and the setup.exe 
 
 ---
 
-## 1.0.2 — (release date)<!-- TODO: Add the release date. If the first released version isn't 1.0.2, change the version number too -->
+## 1.0.2 — 2026-11-22
 
 The first released version (public beta).
 
