@@ -7,7 +7,7 @@ Windows 向けの小さな常駐ユーティリティを、個人で作って無
 
 English: [TwoTile](twotile/index.en.md) · [Nintimer](nintimer/index.en.md) · [HamonPlayer](hamonplayer/index.en.md)
 
-> **TwoTile と Nintimer を、無料の公開βとして公開しています。HamonPlayer は準備中です。** 気づいたことがあれば、問い合わせ窓口からお知らせください。
+> **TwoTile・Nintimer・HamonPlayer を、無料の公開βとして公開しています。** 気づいたことがあれば、問い合わせ窓口からお知らせください。
 
 ## 公開者
 
@@ -33,7 +33,7 @@ Microsoft Store の掲載ページには、Microsoft の定めにより本人の
 
 [Nintimer について](nintimer/)
 
-### [HamonPlayer](hamonplayer/) — 準備中（公開β・無料の予定）
+### [HamonPlayer](hamonplayer/) — 公開β（無料）
 
 自分の曲を、置いておくだけで流し続けるプレイヤーです。何千曲もあると、気に入らない曲を消すか、星を付けたりプレイリストを作ったりして整理することになり、それが手間になります。HamonPlayer なら、気に入らない曲はスキップするだけで回ってきにくくなり、その整理は要りません。作者が約 20 年使ってきたものを、公開できる形に作り直しました。
 
