@@ -6,7 +6,7 @@ lang: en
 
 Dates are in Japan Standard Time. The Microsoft Store version and the setup.exe version share the same version numbers. This is the same as **Help** > **What's new** in the app, except for the dates: here each date is the release date, and in the app it's the date the version was built.
 
-> **About version numbers.** Versions 0.x were used during development before release. **1.0.2** will be the first released version (1.0.0 and 1.0.1 were not released). The beta status is shown on the download pages and in this document, not in the version number.
+> **About version numbers.** Versions 0.x were used during development before release. The first released version is **1.0.2** (1.0.0 and 1.0.1 were not released). The beta status is shown on the download pages and in this document, not in the version number.
 
 <!--
   How to write: Keep the content the same as What's new in the app (src/help/changes.en.html).
