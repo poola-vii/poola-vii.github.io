@@ -70,7 +70,7 @@ If you want a version that doesn't change until you replace it yourself, you can
 - If you install the Store version on a PC where you used the setup.exe version, the Store version uses the same play data (`%LOCALAPPDATA%\HamonPlayer`).
 - To switch from the Store version to the setup.exe version, export your play data in the Store version, uninstall it, and then import the file during first setup of the setup.exe version.
 
-<!-- TODO: This was checked with the Store version registered in Developer Mode (2026-11-14, acceptance step A44). Check again with the version installed from the Store (T118) -->
+<!-- Checked on 2026-11-22 with 1.0.2 installed from the Microsoft Store (T118, acceptance step A44 (4) and (6)) -->
 
 ### Before you connect a phone, phone sync listens on any network
 
@@ -86,7 +86,7 @@ The Store version backs up your play data to `HamonPlayer\backups` in your Docum
 
 To keep everything, before you uninstall, export your play data with **Export play data…** on the **Advanced** tab in **Settings…**. After you install it again, choose that file in **Import play data** during first setup.
 
-<!-- TODO: This was checked with the Store version registered in Developer Mode (2026-11-14, acceptance step A44). Check again with the version installed from the Store (T118) -->
+<!-- Checked on 2026-11-22 with 1.0.2 installed from the Microsoft Store (T118, acceptance step A44 (1) and (5)) -->
 
 ### The setup.exe version shows a warning the first time you run it
 
@@ -116,4 +116,6 @@ Changes in network folders may not be reported to HamonPlayer. In that case, new
 
 We tested the setup.exe version by using it every day on our own PC (Windows 11 Home, 64-bit, x64). The music folders have thousands of songs, including music (wma, mp3, m4a, and aac) and videos (mp4 with H.264 video and AAC audio). Our own music folders have no flac songs, so we tested flac with files we made for testing. We tested on one display at 100% and 150% scale. We tested the English display with **Language** in **Settings…** set to English.
 
-<!-- TODO: After T118 (acceptance step A44) checks the Store version, add what was checked here (installing, where the play data is kept, starting with Windows, whether only one copy runs). When you add a tested environment, update every sentence that lists tested environments in docs/public to the same content (rule in Nintimer's README) -->
+We tested the Store version by installing it from the Microsoft Store on the same PC. We checked installing it, where it keeps your play data, uninstalling it and installing it again, starting HamonPlayer when Windows starts, and that it can't run at the same time as the setup.exe version.
+
+<!-- The Store version sentence was checked on 2026-11-22 with 1.0.2 (T118, acceptance step A44). When you add a tested environment, update every sentence that lists tested environments in docs/public to the same content (rule in Nintimer's README) -->
