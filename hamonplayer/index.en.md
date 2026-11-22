@@ -6,11 +6,11 @@ lang: en
 
 [日本語](index.md)
 
-**A music player that keeps playing your own songs. You just leave it running.**
+**A music player that keeps playing the songs you own. You just leave it running.**
 
 ![The headline "When a song you don't like plays, just skip it, and it comes back less often" and a small menu with only three buttons: search, pause, and skip. The pointer is on the skip button, which shows "Skip — plays this song less often."](screenshot.en.png)
 
-HamonPlayer is for people who have thousands of their own songs and like to leave music playing while they work on their PC. With shuffle, songs you don't like keep coming back, and to avoid them, you usually have to delete songs, or give songs stars and make playlists. With HamonPlayer, you don't need to do that. It doesn't shuffle, and when you skip a song you don't like, it comes back less often. It has no main window. When another app plays sound, it pauses, and when the other app is quiet again, it plays again.
+HamonPlayer is for people who have thousands of songs on their PC and like to leave music playing while they work. With shuffle, songs you don't like keep coming back, and to avoid them, you usually have to delete songs, or give songs stars and make playlists. With HamonPlayer, you don't need to do that. It doesn't shuffle, and when you skip a song you don't like, it comes back less often. It has no main window. When another app plays sound, it pauses, and when the other app is quiet again, it plays again.
 
 > **HamonPlayer is currently a free public beta.** If you notice anything, let us know through the [support contact](support.en.md). Known problems are listed in [Known issues](known_issues.en.md).
 
