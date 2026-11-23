@@ -18,7 +18,7 @@ Dates are in Japan Standard Time. The Microsoft Store version and the setup.exe 
 
 ---
 
-## 1.0.6 — Not released yet (the date goes in on the release day)
+## 1.0.6 — 2026-11-23
 
 - In Help, "Terms and licenses" now shows this version as the version it applies to.
 
