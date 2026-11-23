@@ -61,6 +61,8 @@ Search for "HamonPlayer" in the Microsoft Store and install it. The Store keeps 
 
 **Install only one of the two: the Microsoft Store version or the setup.exe version.**
 
+**To update the setup.exe version, run the setup.exe of the new version.** You don't need to uninstall first. When you select **Install**, HamonPlayer closes if it's running, and the new version replaces it. Your play data and settings are kept. Start it with **Start HamonPlayer** on the last screen, and it continues where it stopped.
+
 #### Check the file you downloaded
 
 After you download it, check that it's the same as the one on the distribution site. Run the following in PowerShell, and check that the value matches the table below.
