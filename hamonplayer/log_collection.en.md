@@ -60,7 +60,7 @@ When you use HamonPlayer in English, the log is written in English too.
 The log alone often isn't enough, so please include the following. **With the first three, we can look into most problems.**
 
 - **What you did and what happened.** If you can, list the steps in order, and tell us when it happened.
-- **The HamonPlayer version.** Right-click the icon and open **Help**. The version is on the last line (for example, `HamonPlayer 1.0.2`). Also tell us whether it's the Microsoft Store version or the setup.exe version.
+- **The HamonPlayer version.** Right-click the icon and open **Help**. The version is on the last line (for example, `HamonPlayer 1.0.6`). Also tell us whether it's the Microsoft Store version or the setup.exe version.
 - **The Windows version.** "Edition", "Version", and "OS build" in Settings > System > About.
 - If the icon is red, the message you see when you point at the icon.
 - If a song doesn't play, the format of that song file (its extension, such as mp3 or m4a).

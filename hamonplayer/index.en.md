@@ -66,11 +66,12 @@ Search for "HamonPlayer" in the Microsoft Store and install it. The Store keeps 
 After you download it, check that it's the same as the one on the distribution site. Run the following in PowerShell, and check that the value matches the table below.
 
 ```pwsh
-Get-FileHash .\HamonPlayer-1.0.2-setup.exe -Algorithm SHA256
+Get-FileHash .\HamonPlayer-1.0.6-setup.exe -Algorithm SHA256
 ```
 
 | Version | File | SHA-256 |
 |:---|:---|:---|
+| 1.0.6 | `HamonPlayer-1.0.6-setup.exe` | `B13E9AE54B14B9D6CCC3D48A63316C542DA2007DB187FEB2DD5E78C8B86C77A9` |
 | 1.0.2 | `HamonPlayer-1.0.2-setup.exe` | `AC548EF931FF6A26CFA28D73B258DEC960C257FD9E5BD94D9E014228526F2D21` |
 
 If the value doesn't match, don't use the file.

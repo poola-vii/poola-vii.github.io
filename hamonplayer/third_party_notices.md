@@ -3,7 +3,7 @@ layout: page
 title: 第三者ライセンス
 ---
 
-**対象: HamonPlayer 1.0.2（Windows 版。Microsoft Store 版・setup.exe 版）**
+**対象: HamonPlayer 1.0.6（Windows 版。Microsoft Store 版・setup.exe 版）**
 
 HamonPlayer には、次の第三者ソフトウェアが含まれています。それぞれの提供者が定める条件が適用されます。以下に、ライセンスが求める表示を掲げます。
 

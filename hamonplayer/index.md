@@ -65,11 +65,12 @@ Microsoft Store で「HamonPlayer」を探して入れてください。更新�
 ダウンロードしたら、配布元のものと同じか確かめてください。PowerShell で次を実行し、表示された値が下の表と同じであることを見ます。
 
 ```pwsh
-Get-FileHash .\HamonPlayer-1.0.2-setup.exe -Algorithm SHA256
+Get-FileHash .\HamonPlayer-1.0.6-setup.exe -Algorithm SHA256
 ```
 
 | 版 | ファイル | SHA-256 |
 |:---|:---|:---|
+| 1.0.6 | `HamonPlayer-1.0.6-setup.exe` | `B13E9AE54B14B9D6CCC3D48A63316C542DA2007DB187FEB2DD5E78C8B86C77A9` |
 | 1.0.2 | `HamonPlayer-1.0.2-setup.exe` | `AC548EF931FF6A26CFA28D73B258DEC960C257FD9E5BD94D9E014228526F2D21` |
 
 値が違うときは使わないでください。

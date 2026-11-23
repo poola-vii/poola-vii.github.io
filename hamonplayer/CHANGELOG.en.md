@@ -12,8 +12,40 @@ Dates are in Japan Standard Time. The Microsoft Store version and the setup.exe 
   How to write: Keep the content the same as What's new in the app (src/help/changes.en.html).
   When the first released version is built, also merge the pre-release entries in the in-app What's new into one entry like the 1.0.2 entry below (persona.md 5.2, item 1).
   Write the release date on the version line. A version may be built and not released (release.md 3.6).
+  Don't write a date on the line of a version that was not released (tools/make-installer.ps1 treats the top version with a date as the released version. backlog T138).
   Add phone version changes with "Phone:" after the phone version is released.
 -->
+
+---
+
+## 1.0.6 — Not released yet (the date goes in on the release day)
+
+- In Help, "Terms and licenses" now shows this version as the version it applies to.
+
+---
+
+## 1.0.5 — Not released
+
+**This version was not released.** Its changes are included in 1.0.6.
+
+- With "Play videos full screen behind other windows", if the monitor with the video window is disconnected, videos now play in the small window instead of filling another monitor. When you connect it again, videos fill it again. Settings and Help now explain how to keep videos playing on a second monitor.
+- Fixed the video window starting at the default small size instead of the size you set, when it was on a second monitor with a different Scale setting in Windows.
+
+---
+
+## 1.0.4 — Not released
+
+**This version was not released.** Its changes are included in 1.0.6.
+
+- The first sentence of "How to use" in Help now says "the songs you own" instead of "your own songs", which could be read as songs you wrote.
+
+---
+
+## 1.0.3 — Not released
+
+**This version was not released.** Its changes are included in 1.0.6.
+
+- The play data in "Info…" is simpler. It still shows "n songs since last play" and "Next in about n songs".
 
 ---
 

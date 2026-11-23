@@ -3,7 +3,7 @@ layout: page
 title: 利用条件
 ---
 
-**制定: 2026-11-22 / 対象: HamonPlayer 1.0.2（Windows 版。Microsoft Store 版・setup.exe 版）**
+**制定: 2026-11-22 / 対象: HamonPlayer 1.0.6（Windows 版。Microsoft Store 版・setup.exe 版）**
 
 > **この文書は、弁護士などの専門家の確認を受けていません。** 個人が無償で配るソフトウェアの条件として、自分で用意したものです。
 
